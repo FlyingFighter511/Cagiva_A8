@@ -1,0 +1,5 @@
+MatPBRBasic {
+ BCRMap "{CF354BEAEED2D830}Assets/Vehicles/Wheeled/Cagiva A8/Data/Textures/DefaultMaterial_BCR.edds"
+ OpacityMap "{77524F950DF5AA47}Assets/Vehicles/Wheeled/Cagiva A8/Data/Textures/DefaultMaterial_A.edds"
+ NMOMap "{F7EDF07837A58AAE}Assets/Vehicles/Wheeled/Cagiva A8/Data/Textures/DefaultMaterial_NMO.edds"
+}

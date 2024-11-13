@@ -1,0 +1,8 @@
+GameProject {
+ ID "CagivaA8"
+ GUID "62B5121A34FD3286"
+ TITLE "Cagiva A8"
+ Dependencies {
+  "61B84088181A8FA4" "58D0FB3206B6F859"
+ }
+}
